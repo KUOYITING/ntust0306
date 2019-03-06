@@ -1,0 +1,7 @@
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: violet;}
+#p01 {color: gray;}
+p.error {
+  color: red;
+}
